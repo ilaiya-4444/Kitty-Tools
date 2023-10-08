@@ -32,7 +32,7 @@ print(f"                   \\                {r}-Family-           {g}  //      
 print("                    \\====================================/                       ")
 print(" ")
 print(f"{y}|======= {r}News{y} =======| ")
-print(f"|{y}Want to help... do this; {r} create an issue, tell me your idea, ither you or i can make it... {y}You will get credit for your work")
+print(f"|{y}Want to help... do this; {r} create an issue, tell me your idea, either you or i can make it... {y}You will get credit for your work")
 print(f"{r}|=========================| ")
 print(" ")
 print(" ")
