@@ -33,7 +33,7 @@ print("""╔═╗┌┐ ┌─┐┬ ┬┌┬┐
 ╠═╣├┴┐│ ││ │ │ 
 ╩ ╩└─┘└─┘└─┘ ┴ 
 """)
-sprint(f"{y}This tool, was made to help people Cheat on quizes... I always see fake cheats so i made a real one <3")
+sprint(f"{y}This tool, was made to help people Cheat on quizzes... I always see fake cheats so i made a real one <3")
 print(" ")
 print(" ")
 print("""╦ ╦┌─┐┌┬┐┌─┐┌┬┐┌─┐┌─┐
