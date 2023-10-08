@@ -8,7 +8,7 @@ sprint(f"{y}Nothing is here...")
 time.sleep(2)
 sprint(f"{r}NOTHING AT ALL...{c}")
 time.sleep(2)
-sprint(f"{r}THANKS {c}for the veiws on This repository... iv never been more happy about something iv done when programming <3{c}")
+sprint(f"{r}THANKS {c}for the views on This repository... i've never been more happy about something i've done when programming <3{c}")
 time.sleep(5)
 
 from subprocess import call
